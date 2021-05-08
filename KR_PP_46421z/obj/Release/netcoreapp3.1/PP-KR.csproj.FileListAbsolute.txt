@@ -1,0 +1,12 @@
+/Users/iwankrastew/Projects/PP-KR/PP-KR/bin/Release/netcoreapp3.1/PP-KR.deps.json
+/Users/iwankrastew/Projects/PP-KR/PP-KR/bin/Release/netcoreapp3.1/PP-KR.runtimeconfig.json
+/Users/iwankrastew/Projects/PP-KR/PP-KR/bin/Release/netcoreapp3.1/PP-KR.runtimeconfig.dev.json
+/Users/iwankrastew/Projects/PP-KR/PP-KR/bin/Release/netcoreapp3.1/PP-KR.dll
+/Users/iwankrastew/Projects/PP-KR/PP-KR/bin/Release/netcoreapp3.1/PP-KR.pdb
+/Users/iwankrastew/Projects/PP-KR/PP-KR/obj/Release/netcoreapp3.1/PP-KR.AssemblyInfoInputs.cache
+/Users/iwankrastew/Projects/PP-KR/PP-KR/obj/Release/netcoreapp3.1/PP-KR.AssemblyInfo.cs
+/Users/iwankrastew/Projects/PP-KR/PP-KR/obj/Release/netcoreapp3.1/PP-KR.csproj.CoreCompileInputs.cache
+/Users/iwankrastew/Projects/PP-KR/PP-KR/obj/Release/netcoreapp3.1/PP-KR.dll
+/Users/iwankrastew/Projects/PP-KR/PP-KR/obj/Release/netcoreapp3.1/PP-KR.pdb
+/Users/iwankrastew/Projects/PP-KR/PP-KR/obj/Release/netcoreapp3.1/PP-KR.genruntimeconfig.cache
+/Users/iwankrastew/Projects/PP-KR/PP-KR/obj/Release/netcoreapp3.1/PP-KR.csprojAssemblyReference.cache
